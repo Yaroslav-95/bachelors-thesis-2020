@@ -32,8 +32,8 @@
     \setmainfont[Ligatures={TeX,Historic}]{Times New Roman}
     \setsansfont{Arial}
     \setmonofont{Courier New}
-\else
-    \RequirePackage{paratype}
+%% \else
+    %% \RequirePackage{paratype}
 \fi
 
 %% Конфигурируем babel
@@ -184,7 +184,7 @@
 \renewcommand*{\@appendixname}{ПРИЛОЖЕНИЕ}%
 \renewcommand*{\@appendixcounter}{\Asbukx{chapter}}%
 \renewcommand*{\@proofname}{Доказательство}%
-\renewcommand*{\@referencesname}{СПИСОК ИСПОЛЬЗОВАННЫХ ИСТОЧНИКОВ}%
+\renewcommand*{\@referencesname}{БИБЛИОГРАФИЧЕСКИЙ СПИСОК}%
 \renewcommand*{\@chapterconclusion}{Выводы по главе}%
 \renewcommand*{\@listingname}{Листинг}%
 \renewcommand*{\@theorem@theorem}{Теорема}%
@@ -532,7 +532,7 @@
 \RequirePackage[hidelinks]{hyperref}
 
 \setcounter{secnumdepth}{3}
-\titleformat{\chapter}[block]{\normalsize\bfseries\center}{\@chaptername~\thechapter.~}%
+\titleformat{\chapter}[block]{\large\bfseries\center}{\@chaptername~\thechapter.~}%
 {0pt}{\begin{MakeUppercase}}[\end{MakeUppercase}\thispagestyle{\TheOnlyTruePageStyle}]
 \titlespacing{\chapter}{0pt}{-30pt}{0pt}
 \titleformat{\section}[block]{\normalsize\bfseries\center}{\thesection.~}{0pt}{}
@@ -1048,9 +1048,9 @@
     \banhyphens
     \begin{center}\theuniversity\end{center}
     \vspace{0cm plus 0.66fill minus 0cm}
-    {\centering\bfseries\MakeUppercase{\@strings@ThesisName}\par}
+    {\centering\large\bfseries\MakeUppercase{\@strings@ThesisName}\par}
     \vspace{0cm plus 0.66fill minus 0cm}
-    {\centering\MakeUppercase{\thetitle}\par}
+    {\centering\Large\bfseries\MakeUppercase{\thetitle}\par}
     \vspace{0cm plus 1fill minus 0cm}
     {\setlength{\tabcolsep}{3pt}\renewcommand{\arraystretch}{1.5}
     \noindent\begin{tabularx}{\textwidth}{Xl}
@@ -1192,7 +1192,7 @@
     \addtolength{\voffset}{3mm}
     \addtolength{\headsep}{-3mm}
 
-    \setcounter{page}{4}
+    \setcounter{page}{3}
     % Выключаем переносы в оглавлении
     \pretocmd{\tableofcontents}{\begingroup\banhyphens}{}{}
     \apptocmd{\tableofcontents}{\endgroup}{}{}
