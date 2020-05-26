@@ -178,13 +178,13 @@
 \renewcommand*{\labelenumi}{\asbukx{enumi})}%
 \renewcommand*{\theenumi}{\asbukx{enumi}}%
 \renewcommand*{\@tablecontinuation}[1]{Продолжение таблицы~#1}%
-\renewcommand*{\@chaptername}{ГЛАВА}%
-\renewcommand*{\@introductionname}{ВВЕДЕНИЕ}%
-\renewcommand*{\@conclusionname}{ЗАКЛЮЧЕНИЕ}%
-\renewcommand*{\@appendixname}{ПРИЛОЖЕНИЕ}%
+\renewcommand*{\@chaptername}{}%
+\renewcommand*{\@introductionname}{Введение}%
+\renewcommand*{\@conclusionname}{Заключение}%
+\renewcommand*{\@appendixname}{Приложение}%
 \renewcommand*{\@appendixcounter}{\Asbukx{chapter}}%
 \renewcommand*{\@proofname}{Доказательство}%
-\renewcommand*{\@referencesname}{БИБЛИОГРАФИЧЕСКИЙ СПИСОК}%
+\renewcommand*{\@referencesname}{Список литературы}%
 \renewcommand*{\@chapterconclusion}{Выводы по главе}%
 \renewcommand*{\@listingname}{Листинг}%
 \renewcommand*{\@theorem@theorem}{Теорема}%
@@ -534,13 +534,13 @@
 \setcounter{secnumdepth}{3}
 \titleformat{\chapter}[block]{\large\bfseries\center}{\@chaptername~\thechapter.~}%
 {0pt}{\begin{MakeUppercase}}[\end{MakeUppercase}\thispagestyle{\TheOnlyTruePageStyle}]
-\titlespacing{\chapter}{0pt}{-30pt}{0pt}
+\titlespacing{\chapter}{0pt}{-30pt}{28pt}
 \titleformat{\section}[block]{\normalsize\bfseries\center}{\thesection.~}{0pt}{}
-\titlespacing{\section}{0pt}{0pt}{0pt}
+\titlespacing{\section}{0pt}{0pt}{28pt}
 \titleformat{\subsection}[block]{\normalsize\bfseries\center}{\thesubsection.~}{0pt}{}
-\titlespacing{\subsection}{0pt}{0pt}{0pt}
+\titlespacing{\subsection}{0pt}{0pt}{28pt}
 \titleformat{\subsubsection}[block]{\normalsize\bfseries\center}{\thesubsubsection.~}{0pt}{}
-\titlespacing{\subsubsection}{0pt}{0pt}{0pt}
+\titlespacing{\subsubsection}{0pt}{0pt}{28pt}
 
 %% \appendix начинает приложения, которые должны правильно именоваться.
 
@@ -1192,7 +1192,7 @@
     \addtolength{\voffset}{3mm}
     \addtolength{\headsep}{-3mm}
 
-    \setcounter{page}{3}
+    \setcounter{page}{4}
     % Выключаем переносы в оглавлении
     \pretocmd{\tableofcontents}{\begingroup\banhyphens}{}{}
     \apptocmd{\tableofcontents}{\endgroup}{}{}
