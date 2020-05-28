@@ -7,34 +7,34 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   sodipodi:docname="diag1.svg"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
-   id="svg8"
-   version="1.1"
-   viewBox="0 0 297 210"
+   width="297mm"
    height="210mm"
-   width="297mm">
+   viewBox="0 0 297 210"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="diag-elems.svg">
   <defs
      id="defs2" />
   <sodipodi:namedview
-     inkscape:window-maximized="1"
-     inkscape:window-y="0"
-     inkscape:window-x="0"
-     inkscape:window-height="1053"
-     inkscape:window-width="1920"
-     showgrid="false"
-     inkscape:document-rotation="0"
-     inkscape:current-layer="layer1"
-     inkscape:document-units="mm"
-     inkscape:cy="461.64794"
-     inkscape:cx="488.56442"
-     inkscape:zoom="0.7"
-     inkscape:pageshadow="2"
-     inkscape:pageopacity="0.0"
-     borderopacity="1.0"
-     bordercolor="#666666"
+     id="base"
      pagecolor="#ffffff"
-     id="base" />
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="524.99299"
+     inkscape:cy="461.64794"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1600"
+     inkscape:window-height="873"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -43,143 +43,143 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
-     id="layer1"
+     inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     inkscape:label="Layer 1">
+     id="layer1">
     <path
-       sodipodi:nodetypes="cccscccccsscccscccc"
-       id="path851"
+       style="fill:#abbcdb;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 19.48605,38.629655 11.480582,-4.48199 -5.595694,-16.907667 c 0,0 6.308239,-1.059161 7.178694,-0.653036 0.870453,0.406124 13.422722,19.267153 13.422722,19.267153 l 14.23158,-1.16356 -8.330509,-8.951701 c 0,0 5.486755,-1.66615 9.832859,-0.758481 l 14.812839,7.877402 c 0,0 26.907307,-2.216457 31.189617,-3.189483 4.28232,-0.973029 12.31164,-5.093266 19.37443,-5.557589 6.0921,-0.400507 13.13926,4.914104 16.83355,8.615792 -2.8191,5.43007 -7.16541,5.189 -9.13092,5.48729 0.39942,1.98718 0.12631,3.05508 -0.39195,4.24216 -1.91094,0.81694 -4.3845,0.372 -5.19163,-0.53206 -0.60954,-0.68274 -0.92193,-2.16311 -0.92025,-3.16921 l -93.934013,6.94143 -14.861645,-2.73455 z"
-       style="fill:none;fill-opacity:0.960784;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       id="path851"
+       sodipodi:nodetypes="cccscccccsscccscccc" />
     <text
-       id="text873"
-       y="17.036978"
-       x="42.170921"
+       xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:8.46667px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math';stroke-width:0.264583"
-         y="17.036978"
-         x="42.170921"
+       x="42.170921"
+       y="17.036978"
+       id="text873"><tspan
+         sodipodi:role="line"
          id="tspan871"
-         sodipodi:role="line">Летательный аппарат</tspan></text>
-    <ellipse
-       transform="rotate(34)"
-       cx="264.73721"
-       cy="8.6424732"
-       rx="15.06366"
-       ry="20.064663"
-       id="path875"
-       style="fill:none;fill-opacity:0.960784;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         x="42.170921"
+         y="17.036978"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math';stroke-width:0.264583">Летательный аппарат</tspan></text>
     <path
-       sodipodi:nodetypes="ccc"
-       id="path877"
+       style="fill:none;fill-opacity:0.960784;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 200.83679,169.51457 -11.25709,-33.69662 32.52634,1.09117"
-       style="fill:none;fill-opacity:0.960784;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       id="path877"
+       sodipodi:nodetypes="ccc" />
     <path
-       sodipodi:nodetypes="cccc"
-       id="path879"
+       style="fill:#ebeccb;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 207.17028,173.49233 -9.02983,12.62655 h 37.33708 l -12.2246,-17.91083"
-       style="fill:none;fill-opacity:0.960784;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       id="path879"
+       sodipodi:nodetypes="cccc" />
+    <ellipse
+       style="fill:#ebeccb;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path875"
+       ry="20.064663"
+       rx="15.06366"
+       cy="8.6424732"
+       cx="264.73721"
+       transform="rotate(34)" />
     <path
-       id="path881"
+       style="fill:none;fill-opacity:0.960784;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 189.5797,135.81795 35.91706,30.10042"
-       style="fill:none;fill-opacity:0.960784;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <path
-       id="path883"
-       d="m 99.012042,40.540899 15.941438,25.87808 2.29,-8.913447 14.64953,20.825602"
-       style="fill:none;fill-opacity:0.960784;stroke:#000000;stroke-width:0.499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       id="path881" />
     <path
        style="fill:none;fill-opacity:0.960784;stroke:#000000;stroke-width:0.499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 99.012042,40.540899 15.941438,25.87808 2.29,-8.913447 14.64953,20.825602"
+       id="path883" />
+    <path
+       id="path883-5"
        d="m 156.69873,98.027714 15.94144,25.878076 2.29,-8.91344 14.64953,20.8256"
-       id="path883-5" />
+       style="fill:none;fill-opacity:0.960784;stroke:#000000;stroke-width:0.499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:8.46667px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="148.4023"
+       id="text873-6"
        y="83.89241"
-       id="text873-6"><tspan
-         sodipodi:role="line"
-         id="tspan871-9"
-         x="148.4023"
+       x="148.4023"
+       style="font-style:normal;font-weight:normal;font-size:8.46667px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math';text-align:center;text-anchor:middle;stroke-width:0.264583"
          y="83.89241"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math';text-align:center;text-anchor:middle;stroke-width:0.264583">Архитектура и канал </tspan><tspan
-         id="tspan918"
-         sodipodi:role="line"
          x="148.4023"
+         id="tspan871-9"
+         sodipodi:role="line">Архитектура и канал </tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math';text-align:center;text-anchor:middle;stroke-width:0.264583"
          y="94.89608"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math';text-align:center;text-anchor:middle;stroke-width:0.264583">передачи данных</tspan></text>
+         x="148.4023"
+         sodipodi:role="line"
+         id="tspan918">передачи данных</tspan></text>
     <text
-       id="text873-6-8"
-       y="42.024509"
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.46667px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="207.42078"
-       style="font-style:normal;font-weight:normal;font-size:8.46667px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math';text-align:center;text-anchor:middle;stroke-width:0.264583"
-         y="42.024509"
+       y="42.024509"
+       id="text873-6-8"><tspan
+         id="tspan918-2"
+         sodipodi:role="line"
          x="207.42078"
-         sodipodi:role="line"
-         id="tspan918-2">Полезный груз</tspan></text>
+         y="42.024509"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math';text-align:center;text-anchor:middle;stroke-width:0.264583">Полезный груз</tspan></text>
     <path
-       id="path941"
+       style="fill:none;fill-opacity:0.960784;stroke:#000000;stroke-width:0.499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 134.39385,42.455945 175.6696,41.612081"
-       style="fill:none;fill-opacity:0.960784;stroke:#000000;stroke-width:0.499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       id="path941" />
     <path
-       sodipodi:nodetypes="cc"
-       id="path945"
+       style="fill:none;fill-opacity:0.960784;stroke:#000000;stroke-width:0.499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 73.591945,42.826472 53.493503,67.435897"
-       style="fill:none;fill-opacity:0.960784;stroke:#000000;stroke-width:0.499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       id="path945"
+       sodipodi:nodetypes="cc" />
     <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:8.46667px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="51.380547"
+       id="text873-6-8-8"
        y="73.478867"
-       id="text873-6-8-8"><tspan
-         id="tspan918-2-2"
-         sodipodi:role="line"
-         x="51.38055"
-         y="73.478867"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math';text-align:center;text-anchor:middle;stroke-width:0.264583">Подсистема управления</tspan><tspan
-         id="tspan965"
-         sodipodi:role="line"
-         x="51.380547"
-         y="84.702667"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math';text-align:center;text-anchor:middle;stroke-width:0.264583">(автопилот)</tspan></text>
-    <text
-       id="text873-6-8-8-9"
-       y="193.44341"
-       x="216.42784"
+       x="51.380547"
        style="font-style:normal;font-weight:normal;font-size:8.46667px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math';text-align:center;text-anchor:middle;stroke-width:0.264583"
-         y="193.44341"
-         x="216.42784"
+         y="73.478867"
+         x="51.38055"
          sodipodi:role="line"
-         id="tspan918-2-2-9">Подсистема управления</tspan><tspan
+         id="tspan918-2-2">Подсистема управления</tspan><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math';text-align:center;text-anchor:middle;stroke-width:0.264583"
-         y="204.66721"
-         x="216.42784"
+         y="84.702667"
+         x="51.380547"
          sodipodi:role="line"
-         id="tspan965-6">(наземная станция)</tspan></text>
-    <path
-       sodipodi:nodetypes="cc"
-       id="path988"
-       d="m 230.12105,177.4613 18.31857,-45.93297"
-       style="fill:none;fill-opacity:0.960784;stroke:#000000;stroke-width:0.499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         id="tspan965">(автопилот)</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:8.46667px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="250.90414"
-       y="127.0665"
-       id="text873-6-8-8-9-0"><tspan
-         id="tspan965-6-7"
+       x="216.42784"
+       y="193.44341"
+       id="text873-6-8-8-9"><tspan
+         id="tspan918-2-2-9"
          sodipodi:role="line"
-         x="250.90414"
+         x="216.42784"
+         y="193.44341"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math';text-align:center;text-anchor:middle;stroke-width:0.264583">Подсистема управления</tspan><tspan
+         id="tspan965-6"
+         sodipodi:role="line"
+         x="216.42784"
+         y="204.66721"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math';text-align:center;text-anchor:middle;stroke-width:0.264583">(наземная станция)</tspan></text>
+    <path
+       style="fill:none;fill-opacity:0.960784;stroke:#000000;stroke-width:0.499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 230.12105,177.4613 18.31857,-45.93297"
+       id="path988"
+       sodipodi:nodetypes="cc" />
+    <text
+       id="text873-6-8-8-9-0"
+       y="127.0665"
+       x="250.90414"
+       style="font-style:normal;font-weight:normal;font-size:8.46667px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math';text-align:center;text-anchor:middle;stroke-width:0.264583"
          y="127.0665"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math';text-align:center;text-anchor:middle;stroke-width:0.264583">Человеческий фактор</tspan></text>
+         x="250.90414"
+         sodipodi:role="line"
+         id="tspan965-6-7">Человеческий фактор</tspan></text>
   </g>
 </svg>

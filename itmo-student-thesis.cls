@@ -536,11 +536,11 @@
 {0pt}{\begin{MakeUppercase}}[\end{MakeUppercase}\thispagestyle{\TheOnlyTruePageStyle}]
 \titlespacing{\chapter}{0pt}{-30pt}{28pt}
 \titleformat{\section}[block]{\normalsize\bfseries\center}{\thesection.~}{0pt}{}
-\titlespacing{\section}{0pt}{0pt}{28pt}
+\titlespacing{\section}{0pt}{28pt}{28pt}
 \titleformat{\subsection}[block]{\normalsize\bfseries\center}{\thesubsection.~}{0pt}{}
-\titlespacing{\subsection}{0pt}{0pt}{28pt}
+\titlespacing{\subsection}{0pt}{28pt}{28pt}
 \titleformat{\subsubsection}[block]{\normalsize\bfseries\center}{\thesubsubsection.~}{0pt}{}
-\titlespacing{\subsubsection}{0pt}{0pt}{28pt}
+\titlespacing{\subsubsection}{0pt}{28pt}{28pt}
 
 %% \appendix начинает приложения, которые должны правильно именоваться.
 
