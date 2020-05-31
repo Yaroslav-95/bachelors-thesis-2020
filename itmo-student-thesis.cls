@@ -122,6 +122,7 @@
 \newcommand*{\@tablecontinuation}[1]{Table~#1, continued}
 \newcommand*{\@chaptername}{CHAPTER}
 \newcommand*{\@introductionname}{INTRODUCTION}
+\newcommand*{\@abbreviationsname}{LIST OF ABBREVIATIONS}
 \newcommand*{\@conclusionname}{CONCLUSION}
 \newcommand*{\@appendixname}{APPENDIX}
 \newcommand*{\@appendixcounter}{\Alph{chapter}}
@@ -151,6 +152,7 @@
 \renewcommand*{\@tablecontinuation}[1]{Table~#1, continued}%
 \renewcommand*{\@chaptername}{CHAPTER}%
 \renewcommand*{\@introductionname}{INTRODUCTION}%
+\renewcommand*{\@abbreviationsname}{LIST OF ABBREVIATIONS}%
 \renewcommand*{\@conclusionname}{CONCLUSION}%
 \renewcommand*{\@appendixname}{APPENDIX}%
 \renewcommand*{\@appendixcounter}{\Alph{chapter}}%
@@ -180,6 +182,7 @@
 \renewcommand*{\@tablecontinuation}[1]{Продолжение таблицы~#1}%
 \renewcommand*{\@chaptername}{}%
 \renewcommand*{\@introductionname}{Введение}%
+\renewcommand*{\@abbreviationsname}{Перечень сокращений}%
 \renewcommand*{\@conclusionname}{Заключение}%
 \renewcommand*{\@appendixname}{Приложение}%
 \renewcommand*{\@appendixcounter}{\Asbukx{chapter}}%
@@ -619,11 +622,14 @@
 \newcommand{\startappendices}{\appendix}
 \newcommand{\initializefrontsections}{}
 
-%% ...отдельным пунктом - введение и заключение
+%% ...отдельным пунктом - введение, список сокращений и заключение
 
 \newcommand{\startprefacepage}{%
 \chapter*{\@introductionname}\label{chapter:introduction}%
 \addcontentsline{toc}{chapter}{\@introductionname}}
+\newcommand{\startabbreviationspage}{%
+\chapter*{\@abbreviationsname}\label{chapter:abbreviations}%
+\addcontentsline{toc}{chapter}{\@abbreviationsname}}
 \newcommand{\startconclusionpage}{%
 \chapter*{\@conclusionname}\label{chapter:conclusion}%
 \addcontentsline{toc}{chapter}{\@conclusionname}}
