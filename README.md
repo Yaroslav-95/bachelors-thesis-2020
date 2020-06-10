@@ -1,6 +1,7 @@
 # Yaroslav's Bachelor's Degree Thesis
 
-oh boy
+Оригинальный стилевик автореферата взят отсюда:
+[https://github.com/mbuzdalov/latex-styles/](https://github.com/mbuzdalov/latex-styles/)
 
-Шаблон (cls файл) взят отсюда:
-[https://github.com/mbuzdalov/latex-styles/tree/hyperref-multibib/itmo-student-thesis](https://github.com/mbuzdalov/latex-styles/tree/hyperref-multibib/itmo-student-thesis)
+Оригинальный стилевик презентации взят отсюда:
+[https://github.com/AlexZabashta/ITMO-Beamer-theme](https://github.com/AlexZabashta/ITMO-Beamer-theme)

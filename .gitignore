@@ -8,3 +8,5 @@
 *.run.xml
 *.tct
 *.toc
+*.nav
+*.snm
